@@ -25,7 +25,7 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/1e166b113111309.60217f715c007.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhreetiman&label=Profile%20views&color=0e75b6&style=flat" alt="dhreetiman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SatyamK2&label=Profile%20views&color=0e75b6&style=flat" alt="SatyamK2" /> </p>
 
 - 🌱 I’m currently learning **Tensorflow**
 
